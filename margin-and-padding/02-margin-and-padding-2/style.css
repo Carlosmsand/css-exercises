@@ -4,12 +4,14 @@ body {
 }
 
 .card {
-  width: 400px;
-  background: #fff;
-  margin: 16px auto;
+padding: 8px;
+background-color: white;
+width: 400px;
+margin: 16px auto;
 }
 
 .title {
+  margin-top: 0;
   background: #e3f4ff;
   padding: 8px;
   font-size: 16px;
